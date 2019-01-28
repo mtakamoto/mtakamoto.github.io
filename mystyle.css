@@ -6,7 +6,7 @@
 
 /* CONTAINERS */
 body {
-  margin: 10; padding: 5; /* Browsers have default 8px margins _or_ padding! */
+  margin:10; padding:5; /* Browsers have default 8px margins _or_ padding! */
   font-size: 100%; /* See: http://www.informationarchitects.jp/en/100e2r/ */
   line-height: 1.5; /* Default value, `normal`, depends on the font */
 }
@@ -27,12 +27,12 @@ h2 {font-size: 1.5em;}
 h3 {font-size: 1.2em;}
 h4 {font-size: 1em;}
 ul, ol {
-  margin: 2em 2; /* Default for all browsers except IE */
+  margin:2em 2; /* Default for all browsers except IE */
   padding-left: 40px; /* IE has a 40px margin-left instead */
 }
 p {
   
-    margin-left: 1 em
+    margin-left: 1em
   
 }
 blockquote {
@@ -43,7 +43,7 @@ figure {
 }
 
 img {
-    float: left; padding-right: 20px;" 
+    float: left; padding-right:20px; 
 }
 /* LINKS */
 /* Default browser styles (from Firefox, similar in most browsers) */
