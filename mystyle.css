@@ -35,11 +35,17 @@ p {
     margin-left: 1em;
   
 }
-#second {
-	clear:both;
+#para1, #para2, #para3 {
+    height: auto; padding-bottom: .3em;
 }
 
+#tech {
+    height: auto;    
+}
 
+#button {
+    text-align: center; color: azure;
+}
 
 blockquote {
   margin: 1em 40px; /* Same for all browsers - Customize or remove */
@@ -49,7 +55,7 @@ figure {
 }
 
 img {
-    float: left; padding-right: 10px; padding-top: 7px;
+    float: left; padding: .5em;
 }
 /* LINKS */
 /* Default browser styles (from Firefox, similar in most browsers) */
@@ -68,11 +74,11 @@ a:active, a:hover {
   outline: none;
 }
 /* No border around images in links */
-/*
+
 a img {
   border: none;
 }
-*/
+
 /* MISC TEXT-LEVEL ELEMENTS */
 /* Make quotations and references more visible */
 q, cite {
